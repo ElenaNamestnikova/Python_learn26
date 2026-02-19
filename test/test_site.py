@@ -1,4 +1,4 @@
-from selenium.webdriver.common.by import By
+#from selenium.webdriver.common.by import By
 import time
 from pages.homepage import Homepage
 from pages.product import Product
